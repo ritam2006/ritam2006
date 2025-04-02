@@ -1,5 +1,7 @@
 ## [Hi I'm Ritam ✌️](https://ritamchakraborty.com)
 
+### ![Shiny Zorua](https://img.pokemondb.net/sprites/black-white/anim/shiny/zorua.gif)
+
 ### About Me
 - I'm a Data Science Major at UC Berkeley 🎓
 - My favorite classes so far have been:
